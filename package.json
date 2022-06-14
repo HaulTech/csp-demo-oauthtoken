@@ -1,0 +1,14 @@
+{
+  "name": "csp-demo-oauthtoken",
+  "version": "1.0.0",
+  "description": "Demo for retreiving OAuth token from HaulTech CSP",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.26.1"
+  }
+}
